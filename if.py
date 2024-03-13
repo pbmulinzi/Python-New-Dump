@@ -1,6 +1,6 @@
 #Case of a buyer and conditions for down payment
 print('''
-Price of a house is $1M
+Price of a house is $1,000,000.0
 
 If buyer has good credit'
       they need to put down 10%
@@ -19,3 +19,4 @@ else:
     put_down =(0.2*1000000)
     next = f'They need to put down ${put_down}'
     print(next)
+    
