@@ -1,5 +1,6 @@
 #Car Game
 Command = ""
+started = False
 while True:
     Command = input('>').lower()
     if Command == 'start':
